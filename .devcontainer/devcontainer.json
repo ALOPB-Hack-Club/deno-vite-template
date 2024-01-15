@@ -20,7 +20,8 @@
 		"vscode": {
 			"extensions": [
 				"svelte.svelte-vscode",
-				"denoland.vscode-deno"
+				"denoland.vscode-deno",
+				"rangav.vscode-thunder-client"
 			]
 		}
 	}
